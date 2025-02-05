@@ -1,0 +1,331 @@
+[
+  {
+    "id": 1,
+    "StageTitle": "1st Stage",
+    "String": "<Universe>\n\nThe universe encompasses all celestial bodies, space itself, and time, which includes the entire history of the universe. In other words, the universe incorporates time as an element and is not constrained by it."
+  },
+  {
+    "id": 2,
+    "StageTitle": "2nd Stage",
+    "String": "<Observable Universe>\n\nThe size of the observable universe, as seen from Earth, has a radius of 46.5 billion light-years, making a total of 93 billion light-years."
+  },
+  {
+    "id": 3,
+    "StageTitle": "3rd Stage",
+    "String": "<You Can Go Too>\n\nScientists from NASA-founded private companies like Golden Spike Company are planning a lunar landing package. It is a two-person team staying on the moon for two days, with a cost of $750 million per person, which is approximately $1.3 billion."
+  },
+  {
+    "id": 4,
+    "StageTitle": "4th Stage",
+    "String": "<The Moon is Moving Away>\n\nThe moon is receding from Earth at a rate of 4 cm per year, roughly the speed at which our nails grow. But don’t worry. The sun will explode before the moon moves far enough to cause concern."
+  },
+  {
+    "id": 5,
+    "StageTitle": "5th Stage",
+    "String": "<The Traveling Sun>\n\nThe sun is traveling at a speed of 230 km per second, meaning the entire solar system is on a journey. It takes about 225 million years for the sun to complete one orbit of the Milky Way."
+  },
+  {
+    "id": 6,
+    "StageTitle": "6th Stage",
+    "String": "<A Day Lasting Two Months>\n\nA day on Mercury lasts 1,408 hours."
+  },
+  {
+    "id": 7,
+    "StageTitle": "7th Stage",
+    "String": "<This Happens When the Ozone Layer is Destroyed>\n\nMercury is closer to the sun and thought to be the hottest, but Venus is actually the hottest planet in the solar system."
+  },
+  {
+    "id": 8,
+    "StageTitle": "8th Stage",
+    "String": "<Earth Wins at Last>\n\nThere are more trees on Earth than stars in the Milky Way. The Milky Way has 100-400 billion stars, while Earth has over 3 trillion trees."
+  },
+  {
+    "id": 9,
+    "StageTitle": "9th Stage",
+    "String": "<Sorry, Moon>\n\nWe don’t live on the moon yet, but we’ve left nearly 200 tons of trash on its surface, including hammers, shovels, wet wipes, and empty space food packages."
+  },
+  {
+    "id": 10,
+    "StageTitle": "10th Stage",
+    "String": "<Mars < Oceans>\n\nWe know more about Mars and the moon than we do about our oceans. Mars and the moon are 99% mapped, but only 5% of Earth’s oceans have been mapped."
+  },
+  {
+    "id": 11,
+    "StageTitle": "11th Stage",
+    "String": "<Jupiter>\n\nJupiter is the largest planet in the solar system by mass. Its mass is 2.5 times greater than that of all other planets combined."
+  },
+  {
+    "id": 12,
+    "StageTitle": "12th Stage",
+    "String": "<A Planet That Floats in Water>\n\nSaturn is the only planet in the solar system that can float in water. Despite being the second-largest planet, it is the lightest in terms of density."
+  },
+  {
+    "id": 13,
+    "StageTitle": "13th Stage",
+    "String": "<The Mystery of Gas Giants>\n\nJupiter, Saturn, Uranus, and Neptune are gas giants and lack solid surfaces, making it impossible to land a spacecraft. However, they are believed to have small rocky cores relative to their size."
+  },
+  {
+    "id": 14,
+    "StageTitle": "14th Stage",
+    "String": "<Neptune>\n\nNeptune was the first planet discovered using mathematics. It can only be observed optically. A year on Neptune is equivalent to 164.8 Earth years."
+  },
+  {
+    "id": 15,
+    "StageTitle": "15th Stage",
+    "String": "<The Color of the Sun>\n\nWe often think of the sun as red or orange, but this is incorrect. The sun is a mix of all colors, and if seen from space, it would appear white. The sun is fundamentally white."
+  },
+  {
+    "id": 16,
+    "StageTitle": "16th Stage",
+    "String": "<Footprints That Last Forever>\n\nThere’s no wind on the moon, so footprints there can last for millions of years unless future astronauts step on them."
+  },
+  {
+    "id": 17,
+    "StageTitle": "17th Stage",
+    "String": "<Neptune: Late Discovery, Slow Orbit>\n\nDiscovered in 1846, Neptune completed only one orbit of the sun by 2011."
+  },
+  {
+    "id": 18,
+    "StageTitle": "18th Stage",
+    "String": "<Moon Dust>\n\nInhaling moon dust can damage DNA and cause cell death. If moon dust is around, don’t forget your mask."
+  },
+  {
+    "id": 19,
+    "StageTitle": "19th Stage",
+    "String": "<Study Vocabulary Instead>\n\nThe latest smartphone you’re holding is millions of times more powerful than the computers used for the Apollo program. But you’re just playing games with it..."
+  },
+  {
+    "id": 20,
+    "StageTitle": "20th Stage",
+    "String": "<Visiting the Solar System>\n\nHumanity has been exploring space for over 60 years, during which our spacecraft have visited all planets in the solar system, including dwarf planets."
+  },
+  {
+    "id": 21,
+    "StageTitle": "Stage 21",
+    "String": "<Between the Moon and Earth>\n\nWhen the Moon is at its farthest point from Earth,\nall the planets in the solar system can fit\nbetween the Moon and Earth."
+  },
+  {
+    "id": 22,
+    "StageTitle": "Stage 22",
+    "String": "<Surprisingly Beautiful in Photos>\n\nMars is called the Red Planet, but its sunsets\nare blue. This is due to the dust in the Martian\natmosphere, which allows blue light to\npass through more effectively than red light."
+  },
+  {
+    "id": 23,
+    "StageTitle": "Stage 23",
+    "String": "<Moon Walkers>\n\nSo far, only 12 people have walked on the Moon's\nsurface, all of whom were American astronauts."
+  },
+  {
+    "id": 24,
+    "StageTitle": "Stage 24",
+    "String": "<Venus's Rotation>\n\nVenus has an extremely slow rotation,\nso one day on Venus lasts 243 Earth days."
+  },
+  {
+    "id": 25,
+    "StageTitle": "Stage 25",
+    "String": "<Specifically Raspberry Scent>\n\nThe center of the galaxy is said to smell fruity.\nScientists have found large amounts of ethyl\nformate in the gas clouds at the galaxy's center,\na chemical compound known for its fruity scent."
+  },
+  {
+    "id": 26,
+    "StageTitle": "Stage 26",
+    "String": "<It's Often Mistaken for a Star>\n\nThe International Space Station is the largest\nhuman-made object in space and the third\nbrightest object in the night sky."
+  },
+  {
+    "id": 27,
+    "StageTitle": "Stage 27",
+    "String": "<90000000000 : 50>\n\nThe Sun produces 90 billion megatons of energy\nevery second. In comparison, the Tsar Bomba,\nthe most powerful hydrogen bomb in history,\nhad a yield of 50 megatons."
+  },
+  {
+    "id": 28,
+    "StageTitle": "Stage 28",
+    "String": "<Earth>\n\nEarth is the only planet in the solar system\nnot named after a deity. The most widely\naccepted theory is that its name originates\nfrom ancient Germanic words for 'ground' or 'soil.'"
+  },
+  {
+    "id": 29,
+    "StageTitle": "Stage 29",
+    "String": "<Look it Up if You're Curious>\n\nThe front and back sides of the Moon look\ndifferent. The backside is notably less attractive."
+  },
+  {
+    "id": 30,
+    "StageTitle": "Stage 30",
+    "String": "<Surface Tension>\n\nIn space, liquids form spheres due to surface\ntension, which minimizes the surface area."
+  },
+  {
+    "id": 31,
+    "StageTitle": "Stage 31",
+    "String": "<It Takes 8 Minutes at Light Speed>\n\nIt takes sunlight 8 minutes and 20 seconds\nto reach Earth."
+  },
+  {
+    "id": 32,
+    "StageTitle": "Stage 32",
+    "String": "<Paper Thickness>\n\nIf you fold an A4 sheet 42 times, its thickness\nwould exceed the distance from Earth to the Moon.\nBut you'll struggle to fold it more than 8 times."
+  },
+  {
+    "id": 33,
+    "StageTitle": "Stage 33",
+    "String": "<Coca-Cola>\n\nCoca-Cola was the first commercial drink\nconsumed in space."
+  },
+  {
+    "id": 34,
+    "StageTitle": "Stage 34",
+    "String": "<The Silent Universe>\n\nSound requires air to travel, but space is a\nvacuum, making it completely silent. Even if\nyou shout right next to someone, they won't hear you."
+  },
+  {
+    "id": 35,
+    "StageTitle": "Stage 35",
+    "String": "<Where Does Space Begin?>\n\nSpace is defined as starting 100 km above Earth,\naccording to the international Kármán Line standard."
+  },
+  {
+    "id": 36,
+    "StageTitle": "Stage 36",
+    "String": "<The Force of Gravity>\n\nGravity can bend light, meaning that the\nobjects astronomers observe may not\nappear exactly as they are."
+  },
+  {
+    "id": 37,
+    "StageTitle": "Stage 37",
+    "String": "<The First Spacefaring Dog>\n\nThe first living creature to travel to space\nwas a dog named 'Laika.' On November 3, 1957,\nLaika boarded the Soviet spacecraft Sputnik 2\nbut died within hours due to heat and stress."
+  },
+  {
+    "id": 38,
+    "StageTitle": "Stage 38",
+    "String": "<Space Pens>\n\nNormal pens don't work in space due to\nthe lack of gravity, which prevents ink\nfrom flowing downward. Astronauts use\nspecially designed pens instead."
+  },
+  {
+    "id": 39,
+    "StageTitle": "Stage 39",
+    "String": "<Space Cockroaches>\n\nA Russian cockroach named Hope gave birth to\n12 offspring during a 33-day space journey.\nThese baby cockroaches were found to be\nstronger and faster than their Earth-bound counterparts."
+  },
+  {
+    "id": 40,
+    "StageTitle": "Stage 40",
+    "String": "<Space Welding>\n\nIn the absence of oxygen, uncoated pieces\nof metal in space can permanently fuse together."
+  },
+  {
+    "id": 41,
+    "StageTitle": "Stage 41",
+    "String": "<But we will part completely around 2030>\n\n Voyager 1 is the farthest human-made object from Earth.\nIts instruments should have stopped functioning long ago,\nbut for some unknown reason, they are still operational."
+  },
+  {
+    "id": 42,
+    "StageTitle": "Stage 42",
+    "String": "<Gliese 581c>\n\nGliese 581c, known for its Earth-like environment, is considered the most likely planet to host life. In 2008, a signal was sent, and a reply from potential intelligent life could arrive by 2048."
+  },
+  {
+    "id": 43,
+    "StageTitle": "Stage 43",
+    "String": "<Jupiter's Eye>\n\nCan you see Jupiter's Eye at the bottom of the planet?\nInside, there is a massive high-pressure vortex swirling.\nThat vortex is larger than Earth.\nIf you're curious, go back and take another look!"
+  },
+  {
+    "id": 44,
+    "StageTitle": "Stage 44",
+    "String": "<The Size of the Sun>\n\n The Sun accounts for 99.8% of the total mass of the solar system\nand is so huge that 1 million Earths could fit inside it."
+  },
+  {
+    "id": 45,
+    "StageTitle": "Stage 45",
+    "String": "<The Only Time Traveler>\n\n Russian cosmonaut Sergei Krikalev holds the record for\nthe only time traveler. He spent a long time in orbit\naround Earth, and as a result, he has lived 0.02 seconds\nless than other people on Earth. In essence,\nhe traveled 0.02 seconds into his own future."
+  },
+  {
+    "id": 46,
+    "StageTitle": "Stage 46",
+    "String": "<Cosmic Communication>\n\n On the night of August 15, 1977, Professor Jerry Ehman\nreceived a radio signal from space. No one knows where\nor how it came from."
+  },
+  {
+    "id": 47,
+    "StageTitle": "Stage 47",
+    "String": "<Elliptical Earth>\n\n Earth is not a perfect sphere.\nDue to centrifugal forces pushing outward at the equator,\nthe term 'oblate spheroid' is more accurate."
+  },
+  {
+    "id": 48,
+    "StageTitle": "Stage 48",
+    "String": "<Grateful for the Magnetic Field>\n\n Earth's magnetic field acts as a shield against\nthe constant bombardment of high-energy particles from the Sun,\nhelps some animals navigate, and allows us to use compasses."
+  },
+  {
+    "id": 49,
+    "StageTitle": "Stage 49",
+    "String": "<Hot and Cold>\n\n The highest temperature ever recorded on Earth's surface\nwas 136°F, and the lowest was -128.6°F."
+  },
+  {
+    "id": 50,
+    "StageTitle": "Stage 50",
+    "String": "<Moonquakes>\n\n The Moon also experiences quakes,\nwhich can influence tidal intervals\nand potentially impact Earth."
+  },
+  {
+    "id": 51,
+    "StageTitle": "Stage 51",
+    "String": "<The Perks of Space Travel>\n\n Astronauts can grow about 5cm taller in space.\nWith reduced gravity, the discs between their vertebrae expand.\nOf course, they return to their original height\nonce back on Earth."
+  },
+  {
+    "id": 52,
+    "StageTitle": "Stage 52",
+    "String": "<The Drawbacks of Space Travel 1>\n\n Astronauts returning from space face weakened immune systems, higher cancer risk, vision changes from eye pressure, cognitive decline, and increased anemia risk due to severe red blood cell destruction."
+  },
+  {
+    "id": 53,
+    "StageTitle": "Stage 53",
+    "String": "<The Drawbacks of Space Travel 2>\n\n A study on 17 astronauts found that even 12 months\nafter returning from space, their bone strength and mineral density\ndecreased by 2%. This is equivalent to at least\nten years of bone loss. It seems space is not meant for humans."
+  },
+  {
+    "id": 54,
+    "StageTitle": "Stage 54",
+    "String": "<Atoms 1>\n\n Atoms are 99.999999999% empty space.\nThe phone you hold, your chair, bed, and even you\nand the universe are mostly not there."
+  },
+  {
+    "id": 55,
+    "StageTitle": "Stage 55",
+    "String": "<Odds of Finding a Lost Item in Space>\n\n On the second day of Apollo 16's lunar mission,\npilot Ken Mattingly lost his wedding ring. Nine days later,\nhe managed to spot it floating outside the door,\nmaking him the only person to find a lost wedding ring in space."
+  },
+  {
+    "id": 56,
+    "StageTitle": "Stage 56",
+    "String": "<Is This a Coincidence...?>\n\n The Moon is 400 times smaller than the Sun,\nbut it's also 400 times closer to Earth.\nThis is why the Moon and the Sun appear the same size in the sky.\nThanks to this astonishing coincidence,\nwe can witness total solar eclipses."
+  },
+  {
+    "id": 57,
+    "StageTitle": "Stage 57",
+    "String": "<The Diamond Planet>\n\n Scientists suggest that the planet 55 Cancri e, 40 light-years away, may have a mass three times Earth's, entirely made of diamonds. If true, it would hold diamonds worth $26.9 quintillion."
+  },
+  {
+    "id": 58,
+    "StageTitle": "Stage 58",
+    "String": "<Origin of the Black Hole>\n\n The term 'black hole' was not coined by an astronomer. It originated by chance when physicist John Wheeler was looking for a replacement for 'gravitationally collapsed object,' and someone in the audience suggested 'black hole' during a conference."
+  },
+  {
+    "id": 59,
+    "StageTitle": "Stage 59",
+    "String": "<Try This Challenge>\n\n Any object can become a black hole if you compress it\nbelow its Schwarzschild radius. For example, compressing the Sun\nto the size of a small town or the Earth to the size of a peanut\nwould achieve this."
+  },
+  {
+    "id": 60,
+    "StageTitle": "Stage 60",
+    "String": "<I Didn't Eat It>\n\n Black holes don't suck in matter.\nMatter falls into black holes just as an apple\nfalls to the ground due to Earth's gravity."
+  },
+  {
+    "id": 61,
+    "StageTitle": "Stage 61",
+    "String": "<Realistic Depiction>\n\n The planets orbiting in the background of the\nstarting screen are animated based on\nrealistic orbital speed ratios."
+  },
+  {
+    "id": 62,
+    "StageTitle": "Stage 62",
+    "String": "<The Cosmic Prison>\n\n At the edge of a black hole lies the 'event horizon,'\nwhere nothing can return once crossed—not even light.\nSince nothing moves faster than light, this means\nnothing can escape the event horizon once it's crossed."
+  },
+  {
+    "id": 63,
+    "StageTitle": "Stage 63",
+    "String": "<Secrets of the Universe>\n\n We still don't know what happens inside black holes. It's likely that something there will contradict our current scientific theories. Understanding what occurs inside could potentially change everything we know about the universe."
+  },
+  {
+    "id": 64,
+    "StageTitle": "Stage 64",
+    "String": "<This Is the Universe...>\n\n The universe contains more stars than grains of sand on Earth.\nThe number of stars visible through telescopes is estimated\nto be about 700 quintillion."
+  },
+  {
+    "id": 65,
+    "StageTitle": "Final Stage",
+    "String": "<I Believe So>\n\n It's obvious, but Earth is the only planet in this vast universe\nknown to have life. It's truly remarkable, isn't it?"
+  },
+  {
+    "id": 71,
+    "String": ""
+  }
+]

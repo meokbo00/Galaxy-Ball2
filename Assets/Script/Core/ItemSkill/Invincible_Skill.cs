@@ -1,0 +1,130 @@
+using System.Collections;
+using System.Collections.Generic;
+using TMPro;
+using UnityEngine;
+
+public class Invincible_Skill : MonoBehaviour
+{
+    GameManager gamemanager;
+    Rigidbody2D rb;
+    BGMControl bGMControl;
+    public float increase = 4f;
+    private bool iscolliding = false;
+    public bool hasExpanded = false;
+    private bool isStopped = false;
+    private bool hasBeenReleased = false;
+    public PhysicsMaterial2D bouncyMaterial;
+
+    bool hasBeenLaunched = false;
+    public bool isExpanding = false; // 공이 팽창 중인지 여부
+    private float decelerationThreshold = 0.4f;
+    private float dragAmount = 1.1f;
+    private float expandSpeed = 1f; // 팽창 속도
+    private Vector3 initialScale; // 초기 공 크기
+    private Vector3 targetScale; // 목표 크기
+
+    private const string WallTag = "Wall";
+    private void Start()
+    {
+        gamemanager = FindObjectOfType<GameManager>();
+        bGMControl = FindObjectOfType<BGMControl>();
+        rb = GetComponent<Rigidbody2D>();
+
+        rb.drag = 0f;
+        rb.collisionDetectionMode = CollisionDetectionMode2D.Continuous;
+        rb.interpolation = RigidbodyInterpolation2D.Interpolate;
+        Collider2D collider = GetComponent<Collider2D>();
+        if (collider != null && bouncyMaterial != null)
+        {
+            collider.sharedMaterial = bouncyMaterial;
+        }
+        initialScale = transform.localScale;
+
+    }
+
+    private void Update()
+    {
+        if (!hasBeenLaunched && !gamemanager.isDragging)
+        {
+            LaunchBall();
+        }
+        if (hasBeenLaunched && !isStopped)
+        {
+            SlowDownBall();
+        }
+        if (isExpanding)
+        {
+            ExpandBall();
+        }
+    }
+    void LaunchBall()
+    {
+        Vector2 launchForce = GameManager.shotDirection * (GameManager.shotDistance * 1.4f);
+        rb.AddForce(launchForce, ForceMode2D.Impulse);
+
+        rb.drag = dragAmount;
+        hasBeenLaunched = true;
+    }
+    void SlowDownBall()
+    {
+        if (rb == null) return;
+
+        if (rb.velocity.magnitude <= decelerationThreshold)
+        {
+            rb.velocity = Vector2.zero;
+            isStopped = true;
+            StartExpansion();
+        }
+    }
+    void StartExpansion()
+    {
+        bGMControl.SoundEffectPlay(1);
+        targetScale = initialScale * 10;
+        isExpanding = true;
+    }
+    void ExpandBall()
+    {
+        if (Vector3.Distance(transform.localScale, targetScale) > 0.01f)
+        {
+            hasExpanded = true;
+            transform.localScale = Vector3.Lerp(transform.localScale, targetScale, Time.deltaTime * expandSpeed);
+        }
+        else
+        {
+            transform.localScale = targetScale; // 목표 크기에 도달하면 팽창 완료
+            isExpanding = false; // 팽창 중단
+        }
+    }
+    private void OnCollisionEnter2D(Collision2D collision)
+    {
+        if (!isExpanding)
+        {
+            bGMControl.SoundEffectPlay(0);
+        }
+        if (!collision.collider.isTrigger && isExpanding)
+        {
+            isExpanding = false; // 팽창 중단
+            transform.localScale = transform.localScale; // 현재 크기에서 멈춤
+            DestroyRigidbody(); // Rigidbody 제거
+        }
+        if (!collision.collider.CompareTag(WallTag))
+        {
+            Destroy(collision.gameObject);
+            Destroy(gameObject);
+        }
+        this.iscolliding = true;
+
+    }
+    private void OnCollisionExit2D(Collision2D collision)
+    {
+        this.iscolliding = false;
+    }
+    void DestroyRigidbody()
+    {
+        if (rb != null)
+        {
+            Destroy(rb);
+            rb = null;
+        }
+    }
+}

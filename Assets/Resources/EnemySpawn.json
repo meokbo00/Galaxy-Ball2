@@ -1,0 +1,315 @@
+[
+    {
+        "id": 1,
+        "enemies": [
+            {"type": "Enemy1", "x": 0, "y": 3.5}
+        ]
+    },
+    {
+        "id": 2,
+        "enemies": [
+            {"type": "Enemy1", "x": 1.5, "y": 2.5},
+            {"type": "Enemy1", "x": -1.5, "y": 2.5},
+            {"type": "null", "x": 2, "y": 2},
+            {"type": "null", "x": 0, "y": 0}
+        ]
+    },
+    {
+        "id": 3,
+        "enemies": [
+            {"type": "Enemy2", "x": 0, "y": 4},
+            {"type": "Enemy1", "x": 0, "y": 2},
+            {"type": "null", "x": 0, "y": 0},
+            {"type": "null", "x": 0, "y": 0}
+        ]
+    },
+    {
+        "id": 4,
+        "enemies": [
+            {"type": "Enemy4", "x": 0, "y": 4},
+            {"type": "", "x": 0, "y": 0},
+            {"type": "null", "x": 0, "y": 0},
+            {"type": "null", "x": 0, "y": 0}
+        ]
+    },
+    {
+        "id": 5,
+        "enemies": [
+            {"type": "Enemy4", "x": 0, "y": 4},
+            {"type": "Enemy2", "x": -1.7, "y": 2.3},
+            {"type": "Enemy2", "x": 1.7, "y": 2.3},
+            {"type": "null", "x": 0, "y": 0}
+        ]
+    },
+    {
+        "id": 6,
+        "enemies": [
+            {"type": "IEnemy1", "x": 0, "y": 3.5},
+            {"type": "Enemy1", "x": -1.5, "y": -1.4},
+            {"type": "null", "x": 0, "y": 0},
+            {"type": "null", "x": 0, "y": 0}
+        ]
+    },
+    {
+        "id": 7,
+        "enemies": [
+            {"type": "Enemy2", "x": -1, "y": 4},
+            {"type": "Enemy1", "x": 0.8, "y": 1.45},
+            {"type": "null", "x": 0, "y": 0},
+            {"type": "null", "x": 0, "y": 0}
+        ]
+    },
+    {
+        "id": 8,
+        "enemies": [
+            {"type": "Enemy4", "x": -1.6, "y": 1},
+            {"type": "Enemy1", "x": -1.6, "y": -1.7},
+            {"type": "Enemy2", "x": 0, "y": 0.5},
+            {"type": "null", "x": 0, "y": 0}
+        ]
+    },
+    {
+        "id": 9,
+        "enemies": [
+            {"type": "Enemy3", "x": -0.45, "y": 3.4},
+            {"type": "Enemy1", "x": 0.45, "y": 3.4},
+            {"type": "null", "x": 0, "y": 0},
+            {"type": "null", "x": 0, "y": 0}
+        ]
+    },
+    {
+        "id": 10,
+        "enemies": [
+            {"type": "IEnemy2", "x": -1.7, "y": 3.14},
+            {"type": "", "x": 0, "y": 0},
+            {"type": "null", "x": 0, "y": 0},
+            {"type": "null", "x": 0, "y": 0}
+        ]
+    },
+    {
+        "id": 11,
+        "enemies": [
+            {"type": "Enemy2", "x": -1.6, "y": 2.3},
+            {"type": "Enemy3", "x": 1.6, "y": 2.3},
+            {"type": "", "x": 0, "y": 0},
+            {"type": "null", "x": 0, "y": 0}
+        ]
+    },
+    {
+        "id": 12,
+        "enemies": [
+            {"type": "Enemy5", "x": 0, "y": 0},
+            {"type": "", "x": 0, "y": 0},
+            {"type": "", "x": 0, "y": 0},
+            {"type": "null", "x": 0, "y": 0}
+        ]
+    },
+    {
+        "id": 13,
+        "enemies": [
+            {"type": "Enemy4", "x": 0, "y": 1.2},
+            {"type": "Enemy5", "x": 0, "y": 2.5},
+            {"type": "", "x": 0, "y": 0},
+            {"type": "null", "x": 0, "y": 0}
+        ]
+    },
+    {
+        "id": 14,
+        "enemies": [
+            {"type": "TEnemy1", "x": 0, "y": 0.7},
+            {"type": "Enemy1", "x": 0, "y": 2},
+            {"type": "Enemy3", "x": 1, "y": 0},
+            {"type": "null", "x": 0, "y": 0}
+        ]
+    },
+    {
+        "id": 15,
+        "enemies": [
+            {"type": "IEnemy1", "x": -1.47, "y": 4.1},
+            {"type": "TEnemy1", "x": -1.7, "y": 1.92},
+            {"type": "TEnemy1", "x": 0.7, "y": 0.21},
+            {"type": "Enemy4", "x": 0.24, "y": 1.84},
+            {"type": "Enemy5", "x": -1.56, "y": -0.45}
+        ]
+    },
+    {
+        "id": 16,
+        "enemies": [
+            {"type": "Enemy1", "x": 1.3, "y": 1.3},
+            {"type": "Enemy1", "x": 0, "y": 0},
+            {"type": "Enemy1", "x": 0, "y": 0},
+            {"type": "null", "x": 0, "y": 0}
+        ]
+    },
+    {
+        "id": 17,
+        "enemies": [
+            {"type": "Enemy1", "x": 1.3, "y": 1.3},
+            {"type": "Enemy1", "x": 0, "y": 0},
+            {"type": "Enemy1", "x": 0, "y": 0},
+            {"type": "null", "x": 0, "y": 0}
+        ]
+    },
+    {
+        "id": 18,
+        "enemies": [
+            {"type": "Enemy1", "x": 1.3, "y": 1.3},
+            {"type": "Enemy1", "x": 0, "y": 0},
+            {"type": "Enemy1", "x": 0, "y": 0},
+            {"type": "null", "x": 0, "y": 0}
+        ]
+    },
+    {
+        "id": 19,
+        "enemies": [
+            {"type": "Enemy1", "x": 1.3, "y": 1.3},
+            {"type": "Enemy1", "x": 0, "y": 0},
+            {"type": "Enemy1", "x": 0, "y": 0},
+            {"type": "null", "x": 0, "y": 0}
+        ]
+    },
+    {
+        "id": 20,
+        "enemies": [
+            {"type": "Enemy1", "x": 1.3, "y": 1.3},
+            {"type": "Enemy1", "x": 0, "y": 0},
+            {"type": "Enemy1", "x": 0, "y": 0},
+            {"type": "null", "x": 0, "y": 0}
+        ]
+    },
+    {
+        "id": 21,
+        "enemies": [
+            {"type": "Enemy1", "x": 1.3, "y": 1.3},
+            {"type": "Enemy1", "x": 0, "y": 0},
+            {"type": "Enemy1", "x": 0, "y": 0},
+            {"type": "null", "x": 0, "y": 0}
+        ]
+    },
+    {
+        "id": 22,
+        "enemies": [
+            {"type": "Enemy1", "x": 1.3, "y": 1.3},
+            {"type": "Enemy1", "x": 0, "y": 0},
+            {"type": "Enemy1", "x": 0, "y": 0},
+            {"type": "null", "x": 0, "y": 0}
+        ]
+    },
+    {
+        "id": 23,
+        "enemies": [
+            {"type": "Enemy1", "x": 1.3, "y": 1.3},
+            {"type": "Enemy1", "x": 0, "y": 0},
+            {"type": "Enemy1", "x": 0, "y": 0},
+            {"type": "null", "x": 0, "y": 0}
+        ]
+    },
+    {
+        "id": 24,
+        "enemies": [
+            {"type": "Enemy1", "x": 1.3, "y": 1.3},
+            {"type": "Enemy1", "x": 0, "y": 0},
+            {"type": "Enemy1", "x": 0, "y": 0},
+            {"type": "null", "x": 0, "y": 0}
+        ]
+    },
+    {
+        "id": 25,
+        "enemies": [
+            {"type": "Enemy1", "x": 1.3, "y": 1.3},
+            {"type": "Enemy1", "x": 0, "y": 0},
+            {"type": "Enemy1", "x": 0, "y": 0},
+            {"type": "null", "x": 0, "y": 0}
+        ]
+    },
+    {
+        "id": 26,
+        "enemies": [
+            {"type": "Enemy1", "x": 1.3, "y": 1.3},
+            {"type": "Enemy1", "x": 0, "y": 0},
+            {"type": "Enemy1", "x": 0, "y": 0},
+            {"type": "null", "x": 0, "y": 0}
+        ]
+    },
+    {
+        "id": 27,
+        "enemies": [
+            {"type": "Enemy1", "x": 1.3, "y": 1.3},
+            {"type": "Enemy1", "x": 0, "y": 0},
+            {"type": "Enemy1", "x": 0, "y": 0},
+            {"type": "null", "x": 0, "y": 0}
+        ]
+    },
+    {
+        "id": 28,
+        "enemies": [
+            {"type": "Enemy1", "x": 1.3, "y": 1.3},
+            {"type": "Enemy1", "x": 0, "y": 0},
+            {"type": "Enemy1", "x": 0, "y": 0},
+            {"type": "null", "x": 0, "y": 0}
+        ]
+    },
+    {
+        "id": 29,
+        "enemies": [
+            {"type": "Enemy1", "x": 1.3, "y": 1.3},
+            {"type": "Enemy1", "x": 0, "y": 0},
+            {"type": "Enemy1", "x": 0, "y": 0},
+            {"type": "null", "x": 0, "y": 0}
+        ]
+    },
+    {
+        "id": 30,
+        "enemies": [
+            {"type": "Enemy1", "x": 1.3, "y": 1.3},
+            {"type": "Enemy1", "x": 0, "y": 0},
+            {"type": "Enemy1", "x": 0, "y": 0},
+            {"type": "null", "x": 0, "y": 0}
+        ]
+    },
+    {
+        "id": 31,
+        "enemies": [
+            {"type": "Enemy1", "x": 1.3, "y": 1.3},
+            {"type": "Enemy1", "x": 0, "y": 0},
+            {"type": "Enemy1", "x": 0, "y": 0},
+            {"type": "null", "x": 0, "y": 0}
+        ]
+    },
+    {
+        "id": 32,
+        "enemies": [
+            {"type": "Enemy1", "x": 1.3, "y": 1.3},
+            {"type": "Enemy1", "x": 0, "y": 0},
+            {"type": "Enemy1", "x": 0, "y": 0},
+            {"type": "null", "x": 0, "y": 0}
+        ]
+    },
+    {
+        "id": 33,
+        "enemies": [
+            {"type": "Enemy1", "x": 1.3, "y": 1.3},
+            {"type": "Enemy1", "x": 0, "y": 0},
+            {"type": "Enemy1", "x": 0, "y": 0},
+            {"type": "null", "x": 0, "y": 0}
+        ]
+    },
+    {
+        "id": 34,
+        "enemies": [
+            {"type": "Enemy1", "x": 1.3, "y": 1.3},
+            {"type": "Enemy1", "x": 0, "y": 0},
+            {"type": "Enemy1", "x": 0, "y": 0},
+            {"type": "null", "x": 0, "y": 0}
+        ]
+    },
+    {
+        "id": 35,
+        "enemies": [
+            {"type": "Enemy1", "x": 1.3, "y": 1.3},
+            {"type": "Enemy1", "x": 0, "y": 0},
+            {"type": "Enemy1", "x": 0, "y": 0},
+            {"type": "null", "x": 0, "y": 0}
+        ]
+    },
+]

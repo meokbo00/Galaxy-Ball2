@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 284fea9d53b508d4b915d510ff192ae4
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - P1ballPrefab: {instanceID: 0}
+  - P2ballPrefab: {instanceID: 0}
+  - P1firezone: {instanceID: 0}
+  - P2firezone: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

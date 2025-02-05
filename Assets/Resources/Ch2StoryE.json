@@ -1,0 +1,489 @@
+[
+  {
+    "id": 1,
+    "textWithDelay": [
+      {
+        "text": "Open your eyes",
+        "delay": 0.05
+      },
+      {
+        "text": ".....",
+        "delay": 0.05
+      },
+      {
+        "text": "Wake up!",
+        "delay": 0.05
+      },
+      {
+        "text": "   ",
+        "delay": 0.05
+      },
+      {
+        "text": "    ",
+        "delay": 0.05
+      },
+      {
+        "text": "    ",
+        "delay": 0.05
+      },
+      {
+        "text": "I gave the chance to 194 other friends besides you, but",
+        "delay": 0.05
+      },
+      {
+        "text": "89...no, for 6000 years, I never gave up on the code, and you were the only one ready by the time I arrived.",
+        "delay": 0.05
+      },
+      {
+        "text": "So, I’ll give you the second mission.",
+        "delay": 0.05
+      },
+      {
+        "text": "Your second mission as a developer is...",
+        "delay": 0.05
+      },
+      {
+        "text": "To wake the planets in the solar system, from Sunday to Saturday, and even the Sun.",
+        "delay": 0.05
+      },
+      {
+        "text": "Travel through this universe and wake up all the planets in the solar system that are asleep.",
+        "delay": 0.05
+      },
+      {
+        "text": "...",
+        "delay": 0.05
+      },
+      {
+        "text": "That's all. It's simple, right?",
+        "delay": 0.05
+      },
+      {
+        "text": "    ",
+        "delay": 0.05
+      },
+      {
+        "text": "Before you start, let me introduce you to two features that will help you.",
+        "delay": 0.05
+      },
+      {
+        "text": "Do you see the 100% button at the bottom right?",
+        "delay": 0.05
+      },
+      {
+        "text": "Tap it once.",
+        "delay": 0.05
+      },
+      {
+        "text": "   ",
+        "delay": 0.05
+      },
+      {
+        "text": "   ",
+        "delay": 0.05
+      },
+      {
+        "text": "   ",
+        "delay": 0.05
+      },
+      {
+        "text": "   ",
+        "delay": 0.05
+      },
+      {
+        "text": "Now, you should be able to zoom out the screen for better visibility.",
+        "delay": 0.05
+      },
+      {
+        "text": "You can adjust the scale depending on your situation and use it as you like.",
+        "delay": 0.05
+      },
+      {
+        "text": "Second,",
+        "delay": 0.05
+      },
+      {
+        "text": "Unlike before, this place will be more spacious.",
+        "delay": 0.05
+      },
+      {
+        "text": "Previously, you may have found the next stage by yourself, but here, it's bigger than you think.",
+        "delay": 0.05
+      },
+      {
+        "text": "So, I’ve made a navigation feature to guide you to the next destination.",
+        "delay": 0.05
+      },
+      {
+        "text": "Do you see the small arrows at the edges of the screen?",
+        "delay": 0.05
+      },
+      {
+        "text": "From now on, you can follow the direction of the arrows to find the next stage.",
+        "delay": 0.05
+      },
+      {
+        "text": "Good...",
+        "delay": 0.05
+      },
+      {
+        "text": "I’d love to let you wander around freely, but",
+        "delay": 0.05
+      },
+      {
+        "text": "For now, we should start step by step according to your current skills.",
+        "delay": 0.05
+      },
+      {
+        "text": "So, let’s start with the small solar system in front of you.",
+        "delay": 0.05
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "textWithDelay": [
+      {
+        "text": "Did you see the green one flying just now?",
+        "delay": 0.05
+      },
+      {
+        "text": "You gained that power by winning just now, and",
+        "delay": 0.05
+      },
+      {
+        "text": "Now you should be able to shoot the same thing.",
+        "delay": 0.05
+      },
+      {
+        "text": "I’ll explain how to shoot it in the next stage, so keep going for now.",
+        "delay": 0.05
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "textWithDelay": [
+      {
+        "text": "Oh... did you successfully complete the Sun stage?",
+        "delay": 0.05
+      },
+      {
+        "text": "Good, good...\nThen, I can’t not give you the third mission.",
+        "delay": 0.05
+      },
+      {
+        "text": "Your third mission is...",
+        "delay": 0.05
+      },
+      {
+        "text": "Until now, you’ve been playing inside the solar system, but",
+        "delay": 0.05
+      },
+      {
+        "text": "Now you’ll wake up all the planets in the universe.",
+        "delay": 0.05
+      },
+      {
+        "text": "And if all the planets are lit up...",
+        "delay": 0.05
+      },
+      {
+        "text": "Let’s go meet the final boss who created this world.",
+        "delay": 0.05
+      },
+      {
+        "text": "You’re not strong enough now, but",
+        "delay": 0.05
+      },
+      {
+        "text": "By that time, you should be able to face them.",
+        "delay": 0.09
+      },
+      {
+        "text": "Keep improving your skills and prepare from now on.",
+        "delay": 0.05
+      },
+      {
+        "text": "From now on, I’ll be silent.",
+        "delay": 0.05
+      },
+      {
+        "text": "But I’ll always be watching.",
+        "delay": 0.05
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "textWithDelay": [
+      {
+        "text": "If you want to move fast over long distances,",
+        "delay": 0.05
+      },
+      {
+        "text": "Zoom out to 1% and scroll. It’ll be much faster.",
+        "delay": 0.05
+      },
+      {
+        "text": "And if you see a planet where you need to stop,",
+        "delay": 0.05
+      },
+      {
+        "text": "Set the zoom to 75~50% and scroll. You’ll have more precision.",
+        "delay": 0.05
+      },
+      {
+        "text": "This is a real pro tip, so don’t forget it!",
+        "delay": 0.05
+      },
+      {
+        "text": "Also, I feel like you weren’t listening properly, so I’ll say it again.",
+        "delay": 0.05
+      },
+      {
+        "text": "If you want to move fast over long distances,",
+        "delay": 0.05
+      },
+      {
+        "text": "Zoom out to 1% and scroll. It’ll be much faster.",
+        "delay": 0.05
+      },
+      {
+        "text": "And if you see a planet where you need to stop,",
+        "delay": 0.05
+      },
+      {
+        "text": "Set the zoom to 75~50% and scroll. You’ll have more precision.",
+        "delay": 0.05
+      },
+      {
+        "text": "...Did you get it?",
+        "delay": 0.07
+      },
+      {
+        "text": "If you don’t understand, just say so.",
+        "delay": 0.05
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "textWithDelay": [
+      {
+        "text": "This one might be a bit tough.",
+        "delay": 0.05
+      },
+      {
+        "text": "It’s the first mid-boss.",
+        "delay": 0.05
+      },
+      {
+        "text": "You should go in with a bit of tension.",
+        "delay": 0.05
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "textWithDelay": [
+      {
+        "text": "Have you ever seen a planet that's moving?",
+        "delay": 0.05
+      },
+      {
+        "text": "Actually, it's a planet that's rotating.",
+        "delay": 0.05
+      },
+      {
+        "text": "What's the difference between a moving planet and a stationary one?",
+        "delay": 0.05
+      },
+      {
+        "text": "A moving planet will be a bit harder than a stationary one.",
+        "delay": 0.05
+      },
+      {
+        "text": "So, the planet you're about to enter... is rotating?",
+        "delay": 0.05
+      },
+      {
+        "text": "I think it's going to be a bit tough, but go in.",
+        "delay": 0.05
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "textWithDelay": [
+      {
+        "text": "Do you know a game called The Sims?",
+        "delay": 0.05
+      },
+      {
+        "text": "...Forget it.",
+        "delay": 0.05
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "textWithDelay": [
+      {
+        "text": "This is already the second mid-boss.",
+        "delay": 0.05
+      },
+      {
+        "text": "This one's going to be harder.",
+        "delay": 0.05
+      },
+      {
+        "text": "Let me say something encouraging.",
+        "delay": 0.05
+      },
+      {
+        "text": "Every stage you've completed so far.",
+        "delay": 0.05
+      },
+      {
+        "text": "It's obvious, but I cleared them all too.",
+        "delay": 0.05
+      },
+      {
+        "text": "...",
+        "delay": 0.05
+      },
+      {
+        "text": "...Without any items.",
+        "delay": 0.05
+      },
+      {
+        "text": "I did it, so you can do it too.",
+        "delay": 0.05
+      },
+      {
+        "text": "Good luck.",
+        "delay": 0.05
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "textWithDelay": [
+      {
+        "text": "Alright...",
+        "delay": 0.05
+      },
+      {
+        "text": "There's really not much left now.",
+        "delay": 0.05
+      },
+      {
+        "text": "From now on, the difficulty level is going to change.",
+        "delay": 0.05
+      },
+      {
+        "text": "But you've done well so far, right?",
+        "delay": 0.05
+      },
+      {
+        "text": "Good luck.",
+        "delay": 0.05
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "textWithDelay": [
+      {
+        "text": "Wow, finally!",
+        "delay": 0.05
+      },
+      {
+        "text": "The stage you just cleared is the last stage prepared for this game.",
+        "delay": 0.05
+      },
+      {
+        "text": "Actually, there's one more left.",
+        "delay": 0.05
+      },
+      {
+        "text": "It's time to meet the final boss.",
+        "delay": 0.05
+      },
+      {
+        "text": "    ",
+        "delay": 0.05
+      },
+      {
+        "text": "    ",
+        "delay": 0.05
+      },
+      {
+        "text": "What are you doing? Aren't you going?",
+        "delay": 0.05
+      },
+      {
+        "text": "Ah... navigation....",
+        "delay": 0.05
+      },
+      {
+        "text": "You don't need that anymore.",
+        "delay": 0.05
+      },
+      {
+        "text": "Have you ever seen the edge of the universe while wandering around here?",
+        "delay": 0.05
+      },
+      {
+        "text": "This time, I'll show you the way myself.",
+        "delay": 0.05
+      },
+      {
+        "text": "The last place you need to go is...",
+        "delay": 0.05
+      },
+      {
+        "text": "The end of this universe.",
+        "delay": 0.05
+      },
+      {
+        "text": "Where is the end of the universe, you ask?",
+        "delay": 0.05
+      },
+      {
+        "text": "You're asking me, the one who created this universe?",
+        "delay": 0.05
+      },
+      {
+        "text": "It's really almost there.",
+        "delay": 0.05
+      },
+      {
+        "text": "Try finding the end of this universe.",
+        "delay": 0.09
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "textWithDelay": [
+      {
+        "text": "So...",
+        "delay": 0.05
+      },
+      {
+        "text": "You've seen the ending, why are you here again?",
+        "delay": 0.05
+      },
+      {
+        "text": "Did you just come to hang out?",
+        "delay": 0.05
+      },
+      {
+        "text": "...Ok",
+        "delay": 0.05
+      }
+    ]
+  }
+]

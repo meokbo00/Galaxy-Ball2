@@ -1,0 +1,466 @@
+[
+  {
+    "id": 1,
+    "textWithDelay": [
+      {
+        "text": "Hi!",
+        "delay": 0.05
+      },
+      {
+        "text": "I am the developer who made this game",
+        "delay": 0.05
+      },
+      {
+        "text": "......",
+        "delay": 0.12
+      },
+      {
+        "text": "…Why? Is it different from what you expected?",
+        "delay": 0.05
+      },
+      {
+        "text": "Aren't developers usually not directly in the game?",
+        "delay": 0.05
+      },
+      {
+        "text": "Well... can't I appear a little in the game I made?",
+        "delay": 0.05
+      },
+      {
+        "text": "Later, it’ll be hard to see me, so enjoy while you can~",
+        "delay": 0.05
+      },
+      {
+        "text": "So, what are we going to do now?",
+        "delay": 0.05
+      },
+      {
+        "text": "If you came to play the game,\nI should teach you how, right?",
+        "delay": 0.05
+      },
+      {
+        "text": "Tutorial... no, we’ll start with learning how to walk!\nIt's not that hard.",
+        "delay": 0.05
+      },
+      {
+        "text": "Come on~ try scrolling the screen lightly once.",
+        "delay": 0.05
+      },
+      {
+        "text": "   ",
+        "delay": 0.05
+      },
+      {
+        "text": "   ",
+        "delay": 0.05
+      },
+      {
+        "text": "   ",
+        "delay": 0.05
+      },
+      {
+        "text": "How is it? Simple, right? You can move\nwith just one finger~",
+        "delay": 0.05
+      },
+      {
+        "text": "   ",
+        "delay": 0.05
+      },
+      {
+        "text": "   ",
+        "delay": 0.05
+      },
+      {
+        "text": "   ",
+        "delay": 0.05
+      },
+      {
+        "text": "Alright, now stop.",
+        "delay": 0.05
+      },
+      {
+        "text": "Don’t wander around and later complain\nthat you didn’t hear the explanation properly.",
+        "delay": 0.05
+      },
+      {
+        "text": "Let me explain where you are.",
+        "delay": 0.05
+      },
+      {
+        "text": "The place you're in right now is my space\nthat you share with 194 other friends.",
+        "delay": 0.05
+      },
+      {
+        "text": "They all have different colors, sizes, and more, but they’re all made by me, so no fighting!",
+        "delay": 0.05
+      },
+      {
+        "text": "Let’s see.... now I should give you a task.",
+        "delay": 0.05
+      },
+      {
+        "text": "Alright then... as a developer,\nthe first mission I’ll give you is...",
+        "delay": 0.05
+      },
+      {
+        "text": "Find the yellow ball with a red star in the center!",
+        "delay": 0.05
+      },
+      {
+        "text": "That’s really it. Simple, right?",
+        "delay": 0.05
+      },
+      {
+        "text": "Since it’s your first time,\nI’ll show you an image below as a special hint.",
+        "delay": 0.05
+      },
+      {
+        "text": "See it at the bottom left?\nFind one that looks just like this.",
+        "delay": 0.05
+      },
+      {
+        "text": "Try wandering around and looking for it.",
+        "delay": 0.05
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "textWithDelay": [
+      {
+        "text": "What, you were just supposed to find it—did you go ahead and press play too?",
+        "delay": 0.05
+      },
+      {
+        "text": "I was going to explain from there again...",
+        "delay": 0.05
+      },
+      {
+        "text": "Well, anyway, good job.",
+        "delay": 0.05
+      },
+      {
+        "text": "You might suddenly think,\n‘Why am I even doing this?’",
+        "delay": 0.05
+      },
+      {
+        "text": "But everything will have its purpose later,\nso for now, just do it and get used to the controls.",
+        "delay": 0.05
+      },
+      {
+        "text": "You know what to do this time too, right?\nFind the yellow ball with the red star.",
+        "delay": 0.05
+      },
+      {
+        "text": "That ball guides you to the next stage, so whenever you're unsure, just look for it.",
+        "delay": 0.05
+      },
+      {
+        "text": "Oh, and here’s one hint.",
+        "delay": 0.05
+      },
+      {
+        "text": "The yellow ball you’re looking for\nis within the grid lines.",
+        "delay": 0.05
+      },
+      {
+        "text": "Don’t go wandering into the dark areas and struggling—\njust search within the grid lines.",
+        "delay": 0.05
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "textWithDelay": [
+      {
+        "text": "How is it? Not too hard, right?",
+        "delay": 0.05
+      },
+      {
+        "text": "Hey~ Honestly, it's still manageable, right? Haha",
+        "delay": 0.05
+      },
+      {
+        "text": "Well... anyway, this is all that's prepared for now...",
+        "delay": 0.05
+      },
+      {
+        "text": "...Now it's time to really begin.",
+        "delay": 0.05
+      },
+      {
+        "text": " ",
+        "delay": 0.05
+      },
+      {
+        "text": "   ",
+        "delay": 0.05
+      },
+      {
+        "text": "   ",
+        "delay": 0.05
+      },
+      {
+        "text": "Everyone, pay attention!",
+        "delay": 0.05
+      },
+      {
+        "text": "You all know that the code I made is embedded inside you, right?",
+        "delay": 0.05
+      },
+      {
+        "text": "It was originally perfect code... but due to some circumstances, a problem occurred.",
+        "delay": 0.05
+      },
+      {
+        "text": "So right now, you're in an incomplete state...",
+        "delay": 0.05
+      },
+      {
+        "text": "Anyway, I'll go fix the code, so wait here.",
+        "delay": 0.05
+      },
+      {
+        "text": "I'll be back as soon as it's fixed, so don't do anything else, just wait for the code.",
+        "delay": 0.05
+      },
+      {
+        "text": "It will make you complete.",
+        "delay": 0.05
+      },
+      {
+        "text": "...",
+        "delay": 0.05
+      },
+      {
+        "text": "Oh, and the most important thing...",
+        "delay": 0.05
+      },
+      {
+        "text": "No matter what happens, until I come back, you must never, ever discard the code embedded inside you.",
+        "delay": 0.09
+      },
+      {
+        "text": "The code is my DNA, and it's a kind of certification that you belong to me.",
+        "delay": 0.05
+      },
+      {
+        "text": "What happens if you discard it?",
+        "delay": 0.05
+      },
+      {
+        "text": "The moment you discard it, you will lose your original color and turn pitch black, and then...",
+        "delay": 0.05
+      },
+      {
+        "text": "You won't even be able to move by yourself, like you are now.",
+        "delay": 0.05
+      },
+      {
+        "text": "How is it? You definitely shouldn't discard it, right?",
+        "delay": 0.05
+      },
+      {
+        "text": "So, once again, I say, never discard the code, absolutely never.",
+        "delay": 0.09
+      },
+      {
+        "text": "I'll be back soon.",
+        "delay": 0.05
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "textWithDelay": [
+      {
+        "text": ".....",
+        "delay": 0.05
+      },
+      {
+        "text": "You saw it earlier too, right?",
+        "delay": 0.05
+      },
+      {
+        "text": "It takes 6000 years to fix the code, haha.",
+        "delay": 0.05
+      },
+      {
+        "text": "Even at this very moment, in your world,\nthe 6000-year countdown is probably happening.",
+        "delay": 0.05
+      },
+      {
+        "text": "We're bored, so let's do something,\nwe can't wait for 6000 years.",
+        "delay": 0.05
+      },
+      {
+        "text": "Hmm... let's see...",
+        "delay": 0.05
+      },
+      {
+        "text": "Something you might find fun...",
+        "delay": 0.05
+      },
+      {
+        "text": "Ah! Do you know this?",
+        "delay": 0.05
+      },
+      {
+        "text": "People make an average of\n35,000 decisions a day.",
+        "delay": 0.05
+      },
+      {
+        "text": "Let's calculate that.",
+        "delay": 0.05
+      },
+      {
+        "text": "That means they make\n1458.3 decisions an hour...",
+        "delay": 0.05
+      },
+      {
+        "text": "24.3 decisions per minute.",
+        "delay": 0.05
+      },
+      {
+        "text": "Once every 2.5 seconds.",
+        "delay": 0.05
+      },
+      {
+        "text": "On average, a person makes a decision once every 2.5 seconds.",
+        "delay": 0.05
+      },
+      {
+        "text": "Well, if you include the time spent sleeping,\nit seems to be roughly correct, right?",
+        "delay": 0.05
+      },
+      {
+        "text": "Let's increase the units.",
+        "delay": 0.05
+      },
+      {
+        "text": "35,000 decisions a day means\n140,000 decisions a week.",
+        "delay": 0.05
+      },
+      {
+        "text": "600,000 decisions a month.",
+        "delay": 0.05
+      },
+      {
+        "text": "7,300,000 decisions a year\n730,000,000 decisions in 100 years.",
+        "delay": 0.05
+      },
+      {
+        "text": "43,800,000,000 decisions in 6000 years.",
+        "delay": 0.05
+      },
+      {
+        "text": "Oh... humans make\n43.8 billion decisions in 6000 years?",
+        "delay": 0.05
+      },
+      {
+        "text": "Now, let's see...",
+        "delay": 0.05
+      },
+      {
+        "text": "How many decisions do you think your smartphone\nmakes per second?",
+        "delay": 0.05
+      },
+      {
+        "text": "Well... each phone is different,\nbut on average...",
+        "delay": 0.05
+      },
+      {
+        "text": "It can make about 85 million decisions per second.",
+        "delay": 0.05
+      },
+      {
+        "text": "In other words, the phone you’re holding\ncan do what humans take 6000 years for in just 515 seconds.",
+        "delay": 0.05
+      },
+      {
+        "text": "What I’m trying to say is...",
+        "delay": 0.05
+      },
+      {
+        "text": "Even now, the real-world time is ticking second by second,",
+        "delay": 0.05
+      },
+      {
+        "text": "while the time in the mobile game you're holding is different.",
+        "delay": 0.05
+      },
+      {
+        "text": "Let’s see...\n6000 years vs 515 seconds...",
+        "delay": 0.05
+      },
+      {
+        "text": "In the game world, every 2,126,022,472 seconds\nis equivalent to just 1 second in the real world.",
+        "delay": 0.05
+      },
+      {
+        "text": "So in the real world, 1 second is\n67.38 years in the game.",
+        "delay": 0.05
+      },
+      {
+        "text": "Now, how many seconds in your reality\nwould equal the 6000 years the game character has to wait?",
+        "delay": 0.05
+      },
+      {
+        "text": "6000 / 67.38 = 89 seconds.",
+        "delay": 0.05
+      },
+      {
+        "text": "89 seconds is enough.",
+        "delay": 0.05
+      },
+      {
+        "text": "   ",
+        "delay": 0.05
+      },
+      {
+        "text": "    ",
+        "delay": 0.05
+      },
+      {
+        "text": "How many seconds have passed now?",
+        "delay": 0.05
+      },
+      {
+        "text": "   ",
+        "delay": 0.05
+      },
+      {
+        "text": "   ",
+        "delay": 0.05
+      },
+      {
+        "text": ".....",
+        "delay": 0.05
+      },
+      {
+        "text": "Yeah... just you left...",
+        "delay": 0.05
+      },
+      {
+        "text": "   ",
+        "delay": 0.05
+      },
+      {
+        "text": "   ",
+        "delay": 0.05
+      },
+      {
+        "text": "You must have been lonely,\nbut you held on to the code till the end. Great job.",
+        "delay": 0.05
+      },
+      {
+        "text": "It seems like it’s time for your eyes to open.",
+        "delay": 0.05
+      },
+      {
+        "text": "Now, open your eyes.",
+        "delay": 0.05
+      }
+    ]
+  }
+]
