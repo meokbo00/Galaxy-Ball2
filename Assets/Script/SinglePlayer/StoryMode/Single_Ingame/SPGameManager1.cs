@@ -1,7 +1,7 @@
 using System;
-using UnityEditor;
 using UnityEngine;
 using UnityEngine.SceneManagement;
+using TMPro; // TMPro 네임스페이스 추가
 
 public class SPGameManager : MonoBehaviour
 {
@@ -10,6 +10,7 @@ public class SPGameManager : MonoBehaviour
     public GameObject P1firezone;
     public GameObject P1Itemsave;
     public GameObject fireitem;
+    public TextMeshProUGUI ballCountText; // totalBalls 값을 표시할 TMP 텍스트
 
     private Vector3 clickPosition;
     private StageGameManager gameManager;
@@ -20,14 +21,15 @@ public class SPGameManager : MonoBehaviour
     private int totalBalls = 0;
     public int totalEnemies;
 
-
     private void Start()
     {
         gameManager = FindAnyObjectByType<StageGameManager>();
         totalEnemies = GameObject.FindGameObjectsWithTag("Enemy").Length;
         P1firezone.gameObject.SetActive(true);
         Debug.Log(StageState.chooseStage);
+        UpdateBallText(); // 초기 텍스트 업데이트
     }
+
     public void PrintDestroyedicontag(string icontag)
     {
         this.fireitem = null;
@@ -40,6 +42,7 @@ public class SPGameManager : MonoBehaviour
             case "Item_Invincible": fireitem = FireItemPrefab[4]; break;
         }
     }
+
     private void Update()
     {
         if (Input.GetMouseButtonDown(0))
@@ -77,22 +80,33 @@ public class SPGameManager : MonoBehaviour
         {
             Vector3 currentPosition = Camera.main.ScreenToWorldPoint(Input.mousePosition);
             currentPosition.z = 0f;
-            shotDistance = Vector3.Distance(clickPosition, currentPosition)*2;
+            shotDistance = Vector3.Distance(clickPosition, currentPosition) * 2;
             Vector3 dragDirection = (currentPosition - clickPosition).normalized;
             shotDirection = dragDirection;
             isDragging = false;
         }
     }
+
     public void AddBall()
     {
         totalBalls++;
+        UpdateBallText(); // UI 업데이트
         CheckBallLimit();
     }
 
     public void RemoveBall()
     {
         totalBalls--;
+        UpdateBallText(); // UI 업데이트
         CheckBallLimit();
+    }
+
+    private void UpdateBallText()
+    {
+        if (ballCountText != null)
+        {
+            ballCountText.text = "Balls: " + totalBalls;
+        }
     }
 
     private void CheckBallLimit()
@@ -130,7 +144,6 @@ public class SPGameManager : MonoBehaviour
         }
     }
 
-
     private void StoryStageClear()
     {
         if (gameManager.StageClearID == StageState.chooseStage && gameManager.StageClearID != 65)
@@ -138,7 +151,7 @@ public class SPGameManager : MonoBehaviour
             gameManager.StageClearID += 1;
             gameManager.SaveStageClearID();
         }
-        
+
         SceneManager.LoadScene("Clear");
     }
 
@@ -146,7 +159,7 @@ public class SPGameManager : MonoBehaviour
     {
         gameManager.ELnum += 1;
         gameManager.ELlevel += 0.4f;
-        if(gameManager.ELnum >= 25)
+        if (gameManager.ELnum >= 25)
         {
             gameManager.ELRound += 1;
             gameManager.ELnum = 1;
@@ -157,3 +170,4 @@ public class SPGameManager : MonoBehaviour
         SceneManager.LoadScene("ELClear");
     }
 }
+ 
